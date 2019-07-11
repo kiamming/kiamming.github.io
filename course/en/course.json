@@ -1,0 +1,108 @@
+{
+  "title": "Eye and Ear",
+  "displayTitle": "Eye and Ear",
+  "body": "",
+  "description": "",
+  "_latestTrackingId": 47,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_youtube": {
+        "ariaRegion": "This is a media component which displays a YouTube video. Select the play / pause button to watch it.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_textConfirmation": {
+        "ariaRegion": ""
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      }
+    },
+    "_extensions": {
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
+      }
+    }
+  },
+  "_type": "course",
+  "_assessment": {
+    "_postTotalScoreToLms": false,
+    "_isPercentageBased": true,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  }
+}

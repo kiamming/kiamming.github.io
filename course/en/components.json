@@ -1,0 +1,3308 @@
+[
+  {
+    "_component": "text",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Outcomes",
+    "displayTitle": "Learning Outcomes",
+    "body": "<ul><li>Identify the internal and accessory structures of the eye &amp; explain their functions.</li><li>Trace the structures through which light passes as it travels from the cornea to the retina.</li></ul>",
+    "_id": "5d1c604127c150498c1d5f08",
+    "_parentId": "5d1c603f27c150498c1d5f07",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1c60e627c150498c1d5f0c",
+    "_parentId": "5d1c603f27c150498c1d5f07",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bc5b934fd71ea7cc20baa850787fdfbfd40808b7.jpg",
+      "small": "course/en/assets/bc5b934fd71ea7cc20baa850787fdfbfd40808b7.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1c617827c150498c1d5f11",
+    "_parentId": "5d1c616627c150498c1d5f10",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "_media": {
+      "_source": "//www.youtube.com/embed/MJxxFwVu1OM",
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_allowFullscreen": true,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": null
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Outcomes",
+    "displayTitle": "Learning Outcomes",
+    "body": "<ul><li>Identify the parts of the external, middle &amp; inner ear and describe their functions.</li><li>Trace the pathways of sound vibrations from the tympanic membrane to the hearing receptors.</li></ul>",
+    "_id": "5d1c624027c150498c1d5f14",
+    "_parentId": "5d1c608a27c150498c1d5f0b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lacrimal Apparatus",
+    "displayTitle": "Lacrimal Apparatus",
+    "body": "",
+    "_id": "5d1c635c27c150498c1d5f18",
+    "_parentId": "5d1c631e27c150498c1d5f17",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify the structure A on the following diagram:",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/01d3e7c02115a80153e0c727054b5e5caf234140.png",
+      "small": "course/en/assets/01d3e7c02115a80153e0c727054b5e5caf234140.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1c7cedb8111613780ed8c9",
+    "_parentId": "5d1c63c027c150498c1d5f1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "1",
+    "_items": [
+      {
+        "text": "Lacrimal gland",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Canaliculi",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Lacrimal sac",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Nasolacrimal duct",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Well done!</p>",
+      "_incorrect": {
+        "final": "<p>Please review the notes. Structure A is the lacrimal gland.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1da2aa4016e23ac84f0132",
+    "_parentId": "5d1c644e27c150498c1d5f1f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the button below once you are done with the physical model.",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "B",
+    "_qnLabelBack": "1",
+    "confirmationLabel": "Done with lacrimal apparatus"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Extrinsic eye muscles",
+    "displayTitle": "Extrinsic eye muscles",
+    "body": "",
+    "_id": "5d1da57e4016e23ac84f0134",
+    "_parentId": "5d1d9d6d4016e23ac84f012f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/dba6a3ea7eb8134108bcb21b651741c0f319ef1b.png",
+      "small": "course/en/assets/dba6a3ea7eb8134108bcb21b651741c0f319ef1b.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1da77b4016e23ac84f013b",
+    "_parentId": "5d1da6d94016e23ac84f013a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "2",
+    "_items": [
+      {
+        "text": "I can identify 5 to 6 of the structures in the extrinsic eye muscles.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Green"
+      },
+      {
+        "text": "I can identify 3 to 4 of the structures in the extrinsic eye muscles.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Orange"
+      },
+      {
+        "text": "I can identify 0 to 2 of the stuctures in the extrinsic eye muscles.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Red"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Fibrous layer",
+    "displayTitle": "Fibrous layer",
+    "body": "",
+    "_id": "5d1da9a34016e23ac84f013d",
+    "_parentId": "5d1da9854016e23ac84f013c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/250ef57abb0a4986be9a869235a17a7108ac63af.png",
+      "small": "course/en/assets/250ef57abb0a4986be9a869235a17a7108ac63af.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1daaef4016e23ac84f0141",
+    "_parentId": "5d1da9df4016e23ac84f0140",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Name structure A:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "3",
+    "_items": [
+      {
+        "_answers": [
+          "Sclera",
+          "sclera"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dabb64016e23ac84f0143",
+    "_parentId": "5d1daba14016e23ac84f0142",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Name structure B:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "B",
+    "_qnLabelBack": "3",
+    "_items": [
+      {
+        "_answers": [
+          "Cornea",
+          "cornea"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Vascular layer",
+    "displayTitle": "Vascular layer",
+    "body": "",
+    "_id": "5d1dae814016e23ac84f0145",
+    "_parentId": "5d1dae684016e23ac84f0144",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0a985740af0b93dabdbfd2e9c3e67c6be2f954f7.png",
+      "small": "course/en/assets/0a985740af0b93dabdbfd2e9c3e67c6be2f954f7.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1daf084016e23ac84f014a",
+    "_parentId": "5d1daec54016e23ac84f0149",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure A:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "4",
+    "_items": [
+      {
+        "text": " Choroid",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Ciliary muscle",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupillary muscles (iris)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupil",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1daf6d4016e23ac84f014c",
+    "_parentId": "5d1daf5c4016e23ac84f014b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure B:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "B",
+    "_qnLabelBack": "4",
+    "_items": [
+      {
+        "text": "Choroid",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Ciliary muscle",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupillary muscles (iris)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupil",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1db0244016e23ac84f014e",
+    "_parentId": "5d1db00f4016e23ac84f014d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure C:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "C",
+    "_qnLabelBack": "4",
+    "_items": [
+      {
+        "text": "Choriod",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Ciliary muscle",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupillary muscles (iris)",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupil",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1db09b4016e23ac84f0150",
+    "_parentId": "5d1db0874016e23ac84f014f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure D:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "4",
+    "_items": [
+      {
+        "text": "Choroid",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Ciliary muscle",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupillary muscles (iris)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Pupil",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dbc064016e23ac84f0152",
+    "_parentId": "5d1db1b84016e23ac84f0151",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "5",
+    "_items": [
+      {
+        "text": "I can identify all 4 structures in the neural layer",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Green"
+      },
+      {
+        "text": "I can identify 2 or 3 structures in the neural layer.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Orange"
+      },
+      {
+        "text": "I can identify 1 structure / no structure in the neural layer.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Red"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dbed94016e23ac84f0154",
+    "_parentId": "5d1dbe1c4016e23ac84f0153",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the button once you are done identifying the optic nerve in the model",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "6",
+    "confirmationLabel": "Done with optic nerve."
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc0ac4016e23ac84f0157",
+    "_parentId": "5d1dc0ab4016e23ac84f0156",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the button once you are done identifying the lens in the model",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "7",
+    "confirmationLabel": "Done with lens."
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Anterior and posterior cavity",
+    "displayTitle": "Anterior and posterior cavity",
+    "body": "",
+    "_id": "5d1dc1b44016e23ac84f015a",
+    "_parentId": "5d1dc1b34016e23ac84f0159",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d45234192e22bf0e0d582663e7428d6b18102a42.png",
+      "small": "course/en/assets/d45234192e22bf0e0d582663e7428d6b18102a42.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc27a4016e23ac84f0165",
+    "_parentId": "5d1dc2794016e23ac84f0164",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Name structure A:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "8",
+    "_items": [
+      {
+        "_answers": [
+          "Posterior cavity",
+          "posterior cavity"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc2f24016e23ac84f0168",
+    "_parentId": "5d1dc2f24016e23ac84f0167",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Name structure B:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "B",
+    "_qnLabelBack": "8",
+    "_items": [
+      {
+        "_answers": [
+          "Anterior cavity",
+          "anterior cavity"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc3854016e23ac84f016b",
+    "_parentId": "5d1dc3854016e23ac84f016a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Name structure C:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "C",
+    "_qnLabelBack": "8",
+    "_items": [
+      {
+        "_answers": [
+          "Lens",
+          "lens"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc6704016e23ac84f016d",
+    "_parentId": "5d1dc4244016e23ac84f016c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "A",
+    "_qnLabelBack": "9",
+    "confirmationLabel": "Click here after your discussion."
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc7a34016e23ac84f016f",
+    "_parentId": "5d1dc6e34016e23ac84f016e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "B",
+    "_qnLabelBack": "9",
+    "_items": [
+      {
+        "text": "I can label 7 to 8 structures.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Green"
+      },
+      {
+        "text": "I can label 4 to 6 structures.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Orange"
+      },
+      {
+        "text": "I can label 0 to 3 structures.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Red"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dc8564016e23ac84f0172",
+    "_parentId": "5d1dc8564016e23ac84f0171",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "C",
+    "_qnLabelBack": "9",
+    "confirmationLabel": "Click here after you are done."
+  },
+  {
+    "_component": "text",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>You have reached the end of the topic on the Eye. You can now move on to the other topic.</p>",
+    "_id": "5d1dca4a4016e23ac84f0174",
+    "_parentId": "5d1dc9ee4016e23ac84f0173",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1dca8b4016e23ac84f0175",
+    "_parentId": "5d1dc9ee4016e23ac84f0173",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/66f4d2b20d02c3ee5719df0c7d18a53118739ac6.png",
+      "small": "course/en/assets/66f4d2b20d02c3ee5719df0c7d18a53118739ac6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e5443216dfc404c9c99e0",
+    "_parentId": "5d1c608a27c150498c1d5f0b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b0e322b971fa9b42587189b564ee24faa23a44c4.png",
+      "small": "course/en/assets/b0e322b971fa9b42587189b564ee24faa23a44c4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "youtube",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Anatomy of the Human Ear",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e55f5216dfc404c9c99e5",
+    "_parentId": "5d1e55ac216dfc404c9c99e4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_setCompletionOn": "inview",
+    "_media": {
+      "_source": "//www.youtube.com/embed/3G5jiXl2LSM",
+      "_aspectRatio": "1.778",
+      "_autoplay": false,
+      "_allowFullscreen": true,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": false,
+      "_playbackQuality": "default",
+      "_showAnnotations": true,
+      "_progressColor": null
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "External ear",
+    "displayTitle": "External ear",
+    "body": "",
+    "_id": "5d1e56ff216dfc404c9c99e7",
+    "_parentId": "5d1e5676216dfc404c9c99e6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify the structures A, B and C on the following diagram:",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7818365aa4c7e30e6eca3fb105b5ec491e3357cd.png",
+      "small": "course/en/assets/7818365aa4c7e30e6eca3fb105b5ec491e3357cd.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e57db216dfc404c9c99ec",
+    "_parentId": "5d1e57bb216dfc404c9c99eb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure A:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "1",
+    "_items": [
+      {
+        "text": "Auricle / pinna",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "External auditory meatus",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Tympanic membrane",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Stapes",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e59d6216dfc404c9c99f1",
+    "_parentId": "5d1e59d6216dfc404c9c99f0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure B:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "1",
+    "_items": [
+      {
+        "text": "Auricle / pinna",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "External auditory meatus",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Tympanic membrane",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Stapes",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e5a15216dfc404c9c99f4",
+    "_parentId": "5d1e5a15216dfc404c9c99f3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure C:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "1",
+    "_items": [
+      {
+        "text": "Auricle / pinna",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "External auditory meatus",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Tympanic membrane",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Stapes",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>Identify the following structures in the physical ear model:</p><ol style=\"list-style-type:lower-alpha\"><li>Auricle (pinna)&nbsp;</li><li>External acoustic meatus</li><li>Tympanic membrane (ear drum)</li></ol>",
+    "_id": "5d1e5ba7216dfc404c9c99f6",
+    "_parentId": "5d1e5b64216dfc404c9c99f5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click on the button below once you are done with the physical model.",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "1",
+    "confirmationLabel": "Done with external ear."
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Middle ear",
+    "displayTitle": "Middle ear",
+    "body": "<p>Identify the following structures on the ear models:</p><ol style=\"list-style-type:lower-alpha\"><li>Tympanic cavity</li><li>Auditory ossicles<ol style=\"list-style-type:lower-roman\"><li>Malleus</li><li>Incus</li><li>Stapes</li></ol></li><li>Oval window</li></ol>",
+    "_id": "5d1e5cea216dfc404c9c99f8",
+    "_parentId": "5d1e5c83216dfc404c9c99f7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "2",
+    "_items": [
+      {
+        "text": "I can identify all 5 structures in the middle ear.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Green"
+      },
+      {
+        "text": "I can identify 3 or 4 structures in the middle ear.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Orange"
+      },
+      {
+        "text": "I can identify 0 to 2 structures in the middle ear.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Red"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Eustachian tube",
+    "displayTitle": "Eustachian tube",
+    "body": "",
+    "_id": "5d1e5fa7216dfc404c9c99fa",
+    "_parentId": "5d1e5f7b216dfc404c9c99f9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify the Eustachian tube (auditory tube) in the physical model.",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "3",
+    "confirmationLabel": "Done with Eustachian tube."
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Vestibulocochlear nerve",
+    "displayTitle": "Vestibulocochlear nerve",
+    "body": "<p>Identify the following structures in the physical ear model:</p><ol style=\"list-style-type:lower-alpha\"><li>Vestibular branch</li><li>Cochlear branch</li></ol>",
+    "_id": "5d1e6a2b216dfc404c9c99fc",
+    "_parentId": "5d1e69f1216dfc404c9c99fb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "5",
+    "_items": [
+      {
+        "text": "I can identify both structures in the Vestibulocochlear nerve.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Green"
+      },
+      {
+        "text": "I can identify 1 structure in the Vestibulocochlear nerve.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Orange"
+      },
+      {
+        "text": "I cannnot identify any structure in the Vestibulocochlear nerve.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Red"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Inner ear",
+    "displayTitle": "Inner ear",
+    "body": "<p>Identify the following structures in the physical ear model:</p><ol style=\"list-style-type:lower-alpha\"><li>Semicircular canals</li><li>Vestibule<ol style=\"list-style-type:lower-roman\"><li>Utricle</li><li>Saccule</li></ol></li><li>Cochlea</li></ol>",
+    "_id": "5d1e6c9a216dfc404c9c99ff",
+    "_parentId": "5d1e6c99216dfc404c9c99fe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "4",
+    "_items": [
+      {
+        "text": "I can identify all 4 structures in the inner ear.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Green"
+      },
+      {
+        "text": "I can identify 2 to 3 structures in the inner ear.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Orange"
+      },
+      {
+        "text": "I can identify 0 to 1 structure in the inner ear.",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": "Red"
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Middle to inner ear",
+    "displayTitle": "Middle to inner ear",
+    "body": "",
+    "_id": "5d1e6e3d216dfc404c9c9a02",
+    "_parentId": "5d1e6dfa216dfc404c9c9a00",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Label the structures A to F",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/500e62f35ba4991c7ed5f8b823f989b903d87a31.png",
+      "small": "course/en/assets/500e62f35ba4991c7ed5f8b823f989b903d87a31.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e6f14216dfc404c9c9a07",
+    "_parentId": "5d1e6ef1216dfc404c9c9a06",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure A:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "6",
+    "_items": [
+      {
+        "text": "Auditory ossicles",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Semi circular canals",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "CN VIII",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Eustachian tube (Auditory tube)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e6fee216dfc404c9c9a0a",
+    "_parentId": "5d1e6fed216dfc404c9c9a09",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure B:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "6",
+    "_items": [
+      {
+        "text": "Auditory ossicles",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Semi circular canals",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "CN VIII",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Eustachian tube (Auditory tube)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e7022216dfc404c9c9a0d",
+    "_parentId": "5d1e7021216dfc404c9c9a0c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure C:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "6",
+    "_items": [
+      {
+        "text": "Auditory ossicles",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Semi circular canals",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "CN VIII",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Eustachian tube (Auditory tube)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e7054216dfc404c9c9a10",
+    "_parentId": "5d1e7053216dfc404c9c9a0f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure D:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "6",
+    "_items": [
+      {
+        "text": "Auditory ossicles",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Semi circular canals",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "CN VIII",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Eustachian tube (Auditory tube)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e7091216dfc404c9c9a13",
+    "_parentId": "5d1e7091216dfc404c9c9a12",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure E:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "6",
+    "_items": [
+      {
+        "text": "Auditory ossicles",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Semi circular canals",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "CN VIII",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Eustachian tube (Auditory tube)",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e70be216dfc404c9c9a16",
+    "_parentId": "5d1e70be216dfc404c9c9a15",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Identify structure F:",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "6",
+    "_items": [
+      {
+        "text": "Auditory ossicles",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Semi circular canals",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Vestibule",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "CN VIII",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Cochlea",
+        "_shouldBeSelected": false,
+        "feedback": "",
+        "_trafficLight": null
+      },
+      {
+        "text": "Eustachian tube (Auditory tube)",
+        "_shouldBeSelected": true,
+        "feedback": "",
+        "_trafficLight": null
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Discussion",
+    "displayTitle": "Discussion",
+    "body": "<p><strong>Discuss the functions of the structures of the ear.</strong></p>",
+    "_id": "5d1e7126216dfc404c9c9a18",
+    "_parentId": "5d1e70fc216dfc404c9c9a17",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "7",
+    "confirmationLabel": "Click here when you are done discussing."
+  },
+  {
+    "_component": "textConfirmation",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Trace",
+    "displayTitle": "Trace",
+    "body": "<p><strong>Trace the pathways of sound vibrations from the tympanic membrane to the hearing receptors by using the ear model and “The Ear” chart.</strong></p>",
+    "_id": "5d1e7184216dfc404c9c9a1b",
+    "_parentId": "5d1e7184216dfc404c9c9a1a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_surveyJS": "6dd4888c-ee6e-462c-ac08-0faa26b9ef40",
+    "_qnLabelFront": "D",
+    "_qnLabelBack": "8",
+    "confirmationLabel": "Click here when you are done tracing."
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5d1e724d216dfc404c9c9a1d",
+    "_parentId": "5d1e7224216dfc404c9c9a1c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/66f4d2b20d02c3ee5719df0c7d18a53118739ac6.png",
+      "small": "course/en/assets/66f4d2b20d02c3ee5719df0c7d18a53118739ac6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "bigger",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>You have reached the end of the topic on the Ear. You have reached the end of the lesson.</p>",
+    "_id": "5d1e7352216dfc404c9c9a20",
+    "_parentId": "5d1e7224216dfc404c9c9a1c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  }
+]

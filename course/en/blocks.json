@@ -1,0 +1,1130 @@
+[
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1c603f27c150498c1d5f07",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1c608a27c150498c1d5f0b",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Anatomy of the Eye",
+    "displayTitle": "Anatomy of the Eye",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1c616627c150498c1d5f10",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Anatomy of the Human Ear",
+    "displayTitle": "Anatomy of the Human Ear",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e55ac216dfc404c9c99e4",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.1a",
+    "displayTitle": "Q1.1a",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1c631e27c150498c1d5f17",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.1",
+    "displayTitle": "Q5.1",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e5676216dfc404c9c99e6",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 7,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1c63c027c150498c1d5f1d",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 8,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e57bb216dfc404c9c99eb",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.1b",
+    "displayTitle": "Q1.1b",
+    "body": "<p><strong>Identify the following structures on the physical eye model itself:</strong></p><ol style=\"list-style-type:lower-alpha\"><li>Lacrimal gland</li><li>Canaliculi</li><li>Lacrimal sac</li><li>Nasolacrimal duct</li></ol>",
+    "_classes": "bigger",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1c644e27c150498c1d5f1f",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 10,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e59d6216dfc404c9c99f0",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.2",
+    "displayTitle": "Q1.2",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1d9d6d4016e23ac84f012f",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e5a15216dfc404c9c99f3",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "<p><strong>Identify the following structures on the eye models:</strong></p><ol style=\"list-style-type:lower-alpha\"><li>Superior rectus</li><li>Inferior rectus</li><li>Medical rectus</li><li>Lateral rectus</li><li>Superior oblique</li><li>Inferior oblique</li></ol>",
+    "_classes": "bigger",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1da6d94016e23ac84f013a",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Physical ear model",
+    "displayTitle": "Physical ear model",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 14,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e5b64216dfc404c9c99f5",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.3",
+    "displayTitle": "Q1.3",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1da9854016e23ac84f013c",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.2",
+    "displayTitle": "Q5.2",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 16,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e5c83216dfc404c9c99f7",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "<p>Identify the structures A and B in the image above.</p>",
+    "_classes": "",
+    "_trackingId": 17,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1da9df4016e23ac84f0140",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.3",
+    "displayTitle": "Q5.3",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 18,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e5f7b216dfc404c9c99f9",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1daba14016e23ac84f0142",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.4",
+    "displayTitle": "Q5.4",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e6c99216dfc404c9c99fe",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.4",
+    "displayTitle": "Q1.4",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dae684016e23ac84f0144",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.5",
+    "displayTitle": "Q5.5",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e69f1216dfc404c9c99fb",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "<p>Identify the structures A, B, C and D in the image above.</p>",
+    "_classes": "",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1daec54016e23ac84f0149",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.6",
+    "displayTitle": "Q5.6",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e6dfa216dfc404c9c9a00",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1daf5c4016e23ac84f014b",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 26,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e6ef1216dfc404c9c9a06",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 27,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1db00f4016e23ac84f014d",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e6fed216dfc404c9c9a09",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 29,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1db0874016e23ac84f014f",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 30,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e7021216dfc404c9c9a0c",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.5 Neural layer",
+    "displayTitle": "Q1.5 Neural layer",
+    "body": "<p>Discuss with your group mates and identify the following structures of the <u><strong>neural layer</strong></u> in the eye models:</p><ol style=\"list-style-type:lower-alpha\"><li>Retina</li><li>Macula lutea</li><li>Fovea centralis</li><li>Optic disc</li></ol>",
+    "_classes": "bigger",
+    "_trackingId": 31,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1db1b84016e23ac84f0151",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 32,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e7053216dfc404c9c9a0f",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.6 Optic nerve",
+    "displayTitle": "Q1.6 Optic nerve",
+    "body": "<p>Identify the <u><strong>optic nerve</strong></u> in the eye model.</p>",
+    "_classes": "bigger",
+    "_trackingId": 33,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dbe1c4016e23ac84f0153",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 34,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e7091216dfc404c9c9a12",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.7 Lens",
+    "displayTitle": "Q1.7 Lens",
+    "body": "<p>Identify the <u><strong>lens</strong></u> in the eye model.</p>",
+    "_classes": "bigger",
+    "_trackingId": 35,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc0ab4016e23ac84f0156",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 36,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e70be216dfc404c9c9a15",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q1.8 and Q1.9",
+    "displayTitle": "Q1.8 and Q1.9",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 37,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc1b34016e23ac84f0159",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.7",
+    "displayTitle": "Q5.7",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 38,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e70fc216dfc404c9c9a17",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "<p>Identify the structures A, B and C in the image above.</p>",
+    "_classes": "bigger",
+    "_trackingId": 39,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc2794016e23ac84f0164",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q5.8",
+    "displayTitle": "Q5.8",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 40,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e7184216dfc404c9c9a1a",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bigger",
+    "_trackingId": 41,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc2f24016e23ac84f0167",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "End of topic: Ear",
+    "displayTitle": "End of topic: Ear",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 42,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1e7224216dfc404c9c9a1c",
+    "_parentId": "5d1c608a27c150498c1d5f0a",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bigger",
+    "_trackingId": 43,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc3854016e23ac84f016a",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "bigger",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q2",
+    "displayTitle": "Q2",
+    "body": "<p><strong>Discuss the functions of the structures of an eye.</strong></p>",
+    "_classes": "bigger",
+    "_trackingId": 44,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc4244016e23ac84f016c",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q3",
+    "displayTitle": "Q3",
+    "body": "<p><strong>Draw a horizontal section of an eye and label the following structures.</strong></p><ul><li>Cornea</li><li>Sclera</li><li>Iris</li><li>Pupil</li><li>Ciliary body</li><li>Choroid</li><li>Retina</li><li>Optic nerve</li></ul>",
+    "_classes": "bigger",
+    "_trackingId": 45,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc6e34016e23ac84f016e",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Q4",
+    "displayTitle": "Q4",
+    "body": "<p><strong>Trace the structures through which light passes as it travels from the cornea to the retina by using the eye models or “The Eye” chart.</strong></p>",
+    "_classes": "bigger",
+    "_trackingId": 46,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc8564016e23ac84f0171",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "End of topic: Eye",
+    "displayTitle": "End of topic: Eye",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 47,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5d1dc9ee4016e23ac84f0173",
+    "_parentId": "5d1c603f27c150498c1d5f06",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  }
+]
